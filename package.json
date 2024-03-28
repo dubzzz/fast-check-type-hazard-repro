@@ -12,10 +12,10 @@
   "author": "Nicolas DUBIEN <github@dubien.org>",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^20.11.30",
-    "typescript": "*"
+    "@types/node": "~20.11.30",
+    "typescript": "~5.4.3"
   },
   "dependencies": {
-    "fast-check": "^3.17.0"
+    "fast-check": "file:proposals/fast-check-pr4842-6a46d52.tgz"
   }
 }
