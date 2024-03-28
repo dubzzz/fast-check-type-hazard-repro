@@ -1,0 +1,21 @@
+{
+  "private": "true",
+  "type": "module",
+  "name": "fast-check-type-hazard-repro",
+  "description": "Issue related to dual-mode packages in the context of TypeScript (when dealing with unique symbols)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "Nicolas DUBIEN <github@dubien.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "typescript": "*"
+  },
+  "dependencies": {
+    "fast-check": "^3.17.0"
+  }
+}
