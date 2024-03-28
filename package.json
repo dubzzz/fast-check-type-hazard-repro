@@ -16,6 +16,6 @@
     "typescript": "~5.4.3"
   },
   "dependencies": {
-    "fast-check": "file:proposals/fast-check-pr4842-6a46d52.tgz"
+    "fast-check": "file:proposals/fast-check-pr4842-2c67201.tgz"
   }
 }
